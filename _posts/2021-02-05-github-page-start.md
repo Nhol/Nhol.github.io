@@ -1,3 +1,15 @@
+---
+title: "GitHub Pages 준비하기"
+excerpt: "Ruby, Jekyll 설치 / 샘플 블로그 생성 / 로컬 서버 구동"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-02-05
+---
+
+
 1. ruby, rbenv 설치
     - mac에는 ruby가 default로 설치되어 있으나 버전이 낮아 jekyll 지원하지 않는 문제가 있었음
     - 또한 system ruby가 아닌 rbenv로 관리되는 ruby 설치 필요
